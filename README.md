@@ -42,11 +42,13 @@ book_db = {
     "History of Pakistan": {"copies": 3, "category": "History"},
 }
 
+
 # Installation
 
 # Clone the repository:
 
 git clone https://github.com/your-username/library-assistant.git
+
 cd library-assistant
 
 
@@ -62,6 +64,7 @@ Type your request, such as searching for a book or borrowing one.
 Type exit to quit the assistant.
 
 Project Structure
+
 library-assistant/
 │
 ├── main.py           # Main script to run the assistant
