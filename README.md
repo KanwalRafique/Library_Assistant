@@ -66,6 +66,7 @@ Type exit to quit the assistant.
 Project Structure
 
 library-assistant/
+
 │
 ├── main.py           # Main script to run the assistant
 ├── library_agents.py # Functions for book search, borrow, return, timings
